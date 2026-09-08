@@ -1,3 +1,3 @@
-# 我的学术主页
+# Jingzheng Li — Academic Homepage
 
-**My howepage:** http://zhouxiuze.com/
+Source for [jingzhengli.github.io](https://jingzhengli.github.io/), featuring research on autonomous-driving safety, robust machine learning, and multimodal AI.
